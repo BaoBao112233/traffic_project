@@ -1,0 +1,5 @@
+numpy==1.26.2
+opencv-contrib-python==3.4.11.45
+opencv-python==3.4.11.41
+shapely==2.0.2
+tflite-runtime @ https://github.com/google-coral/pycoral/releases/download/v2.0.0/tflite_runtime-2.5.0.post1-cp39-cp39-linux_armv7l.whl
